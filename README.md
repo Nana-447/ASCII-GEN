@@ -1,4 +1,4 @@
-# ASCII-GEN 🎨
+[⚠️ Suspicious Content] # ASCII-GEN 🎨
 
 A modern, cross-platform ASCII art generator desktop application built with Electron and Next.js. Convert images to beautiful ASCII art with advanced customization options.
 
@@ -44,11 +44,23 @@ A modern, cross-platform ASCII art generator desktop application built with Elec
 
 ## 📦 Installation
 
-### Prerequisites
-- Node.js (Latest LTS version)
-- npm or pnpm
+### 🌐 Try Online Demo
+Experience ASCII-GEN in your browser: **[https://asciigen.vercel.app/](https://asciigen.vercel.app/)**
 
-### Development Setup
+### 💻 Windows x64 Portable (Recommended)
+**Quick Start - No Installation Required!**
+
+1. **Download**: Get the portable executable from [GitHub Releases](https://github.com/Saganaki22/ASCII-GEN/releases/tag/v0.1.0)
+2. **Extract**: Unzip the downloaded file to any folder
+3. **Run**: Double-click `ASCII-Gen-Portable.exe`
+4. **Enjoy**: Start creating ASCII art immediately!
+
+**System Requirements:**
+- Windows 10/11 (x64)
+- No additional dependencies required
+- Portable - runs from any location
+
+### 🛠️ Development Setup
 ```bash
 # Clone the repository
 git clone <your-repo-url>
