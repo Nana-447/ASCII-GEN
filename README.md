@@ -9,7 +9,7 @@ A modern, cross-platform ASCII art generator desktop application built with Elec
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 
-![ascii_art](https://github.com/user-attachments/assets/6430bd55-a147-4dda-b820-a28f7447674c)
+![replicate-prediction-z8fvcxk9nhrm80cqg4q85p955r](https://github.com/user-attachments/assets/f7659cc1-d5bd-4e82-b7f9-8bb852c5dd6a)
 
 ## 🚀 Features
 
