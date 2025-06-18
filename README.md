@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] # ASCII-GEN 🎨
+# ASCII-GEN 🎨
 
 A modern, cross-platform ASCII art generator desktop application built with Electron and Next.js. Convert images to beautiful ASCII art with advanced customization options.
 
