@@ -9,6 +9,8 @@ A modern, cross-platform ASCII art generator desktop application built with Elec
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-06B6D4?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 
+![ascii_art](https://github.com/user-attachments/assets/6430bd55-a147-4dda-b820-a28f7447674c)
+
 ## 🚀 Features
 
 - **Cross-platform**: Windows and Linux support
@@ -51,9 +53,8 @@ Experience ASCII-GEN in your browser: **[https://asciigen.vercel.app/](https://a
 **Quick Start - No Installation Required!**
 
 1. **Download**: Get the portable executable from [GitHub Releases](https://github.com/Saganaki22/ASCII-GEN/releases/tag/v0.1.0)
-2. **Extract**: Unzip the downloaded file to any folder
-3. **Run**: Double-click `ASCII-Gen-Portable.exe`
-4. **Enjoy**: Start creating ASCII art immediately!
+2. **Run**: Double-click `ASCII-Gen-Portable.exe`
+3. **Enjoy**: Start creating ASCII art immediately!
 
 **System Requirements:**
 - Windows 10/11 (x64)
